@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#root{
+    height: 100vh;
+}
+.main_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.black_box{
+    background: black;
+    height: 200px;
+    width: 200px;
+}
