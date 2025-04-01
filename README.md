@@ -18,3 +18,5 @@ npm install
 
 npm run dev
 Проект будет доступен по адресу: http://localhost:5173
+
+Также он доступен в развернутом виде по ссылке: https://jeleapps-test-eight.vercel.app/
